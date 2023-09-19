@@ -1,0 +1,27 @@
+.container {
+    text-align: left;
+    background-color: aqua;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fuggles', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    /* Ocupar todo el ancho disponible */
+    width: 100%;
+    min-height: 18vh;
+    /* Solo para probar cómo se ve */
+    background: #a39f9f;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
